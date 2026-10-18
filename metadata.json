@@ -1,0 +1,8 @@
+{
+  "name": "행복한 마산회원교회 이웃초청주일 - 사랑한 Day",
+  "description": "2026 추수감사주일 이웃초청축제 '사랑한 Day'. 소중한 당신을 따뜻한 축복의 자리에 기쁜 마음으로 초대합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

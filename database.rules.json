@@ -1,0 +1,23 @@
+{
+  "rules": {
+    ".read": true,
+    "invitations": {
+      "$id": {
+        ".write": "newData.exists()"
+      }
+    },
+    "gift_downloads": {
+      "$id": {
+        ".write": "newData.exists()"
+      }
+    },
+    "visits": {
+      "$id": {
+        ".write": "newData.exists()"
+      }
+    },
+    "settings": {
+      ".write": true
+    }
+  }
+}
